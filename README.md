@@ -11,7 +11,7 @@ This is a minimal arch installation guide
  #### 1.Reboot your computer and boot into ventoy
  #### 2.Select the arch iso
  #### 3.Wait until the boot process is finished
- #### 4.Connect to wifi using iwctl   _(if you use ethernet, you can skip this steps)_
+ #### 4.Connect to wifi using iwctl   _(if you use ethernet, you can skip this step)_
     $ iwctl
     $ [iwd]# station wlan0 get-networks
     $ [iwd]# station wlan0 connect <Name of WiFi access point>
