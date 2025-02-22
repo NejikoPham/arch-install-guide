@@ -3,7 +3,7 @@ This is a minimal arch installation guide
 ## I-Preparing installation medium
  #### 1.Download arch linux iso file from https://archlinux.org/download/ _(Find HTTP Direct Downloads section and choose mirror that is geographically closer to your location)_
  #### 2.Insert a usb stick into your pc _(at least 5GB)_
- #### 3.Use a image flasher to flash the arch iso file to your usb stick _(I reccomend you should use ventoy)_
+ #### 3.Use a image flasher to flash the arch iso file to your usb stick _(I reccomend using ventoy)_
  ### **_# last steps are for ventoy user_**
  #### 4.Download ventoy from https://www.ventoy.net/en/download.html and install ventoy
  #### 5.Move the arch iso to the drive named ventoy
