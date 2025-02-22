@@ -1,5 +1,5 @@
 # Arch Linux Installation Guide
-This is an guide to intsall arch (minimal)
+This is a minimal arch installation guide
 ## I-Preparing installation medium
  #### 1.Download arch linux iso file from https://archlinux.org/download/ _(Find HTTP Direct Downloads section and choose mirror that is geographically closer to your location)_
  #### 2.Insert a usb stick into your pc _(at least 5GB)_
@@ -117,5 +117,7 @@ This is an guide to intsall arch (minimal)
      $ timedatectl set-ntp true
  #### 2.[Wifi users only] Connect to WiFi using nmcli:
      $ nmcli device wifi connect <Name of WiFi access point> password <password>
-    
- 
+#This is the minimalist way to install Arch. I got all these instructions from different sources.\
+   -Silentz's arch linux installation guide: https://github.com/silentz/arch-linux-install-guide 
+   -Arch wiki: https://wiki.archlinux.org/title/Installation_guide \
+ *_if i have any mistakes, you can request_*
