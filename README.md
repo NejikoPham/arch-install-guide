@@ -118,6 +118,6 @@ This is a minimal arch installation guide
  #### 2.[Wifi users only] Connect to WiFi using nmcli:
      $ nmcli device wifi connect <Name of WiFi access point> password <password>
 * _# This is the minimalist way to install Arch. I got all these instructions from different sources._*\
-   -Silentz's arch linux installation guide: https://github.com/silentz/arch-linux-install-guide 
-   -Arch wiki: https://wiki.archlinux.org/title/Installation_guide \
+   -Silentz's arch linux installation guide: https://github.com/silentz/arch-linux-install-guide \
+   -Arch wiki: https://wiki.archlinux.org/title/Installation_guide 
 
